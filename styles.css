@@ -1,0 +1,60 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.inputText{
+    width: 40%;
+    margin: 10px 10px 10px 10px;
+    color: red;
+    border-radius: 15px;
+    border-color: red;
+    border-style: dashed;
+    background-color: lightgreen;
+    border-width: 1px 1px 1px 1px;
+}
+
+.inputActive{
+    height: 20px;
+    align-self: center;
+    color: red;
+    border-radius: 15px;
+    border-color: red;
+    border-style: dashed;
+    background-color: lightgreen;
+    border-width: 1px 1px 1px 1px;
+ }
+
+.row{
+    display:block;
+}
+
+.button{
+    margin: 10px auto 10px auto;
+    color: red;
+    border-radius: 15px;
+    border-color: red;
+    border-style: dashed;
+    background-color: lightgreen;
+    border-width: 1px 1px 1px 1px;
+}
+
+.result{
+    width: 100%;
+    margin: 20px auto 20px auto;
+    color: red;
+    border-radius: 15px;
+    border-color: red;
+    border-style: dashed;
+    background-color: lightgreen;
+    border-width: 1px 1px 1px 1px;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+#select{
+    width: 50px;
+    margin: 0 auto;
+}
